@@ -1,0 +1,9 @@
+#img-bg{
+  background-image: url('https://cdn.pocket-lint.com/r/s/1200x/assets/images/148288-tv-feature-what-order-should-you-watch-every-star-trek-movie-and-tv-show-image1-m7vcupjge6.png');
+
+  min-height: 650px;
+
+  background-position: center;
+  background-repeat:no-repeat ;
+  background-size: cover;
+}

@@ -1,0 +1,9 @@
+#img-bg{
+  background-image: url('https://images.justwatch.com/backdrop/200642233/s1440/star-trek-the-animated-series');
+
+  min-height: 650px;
+
+  background-position: center;
+  background-repeat:no-repeat ;
+  background-size: cover;
+}
